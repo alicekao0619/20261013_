@@ -1,0 +1,16 @@
+question,option0,option1,option2,option3,answer
+1. 在 p5.js 中，哪一個函數只會在程式一開始執行「一次」?,draw(),setup(),mousePressed(),createCanvas(),1
+2. 想要繪製一個左上角座標在 (50, 50)，寬高皆為 100 的正方形，應該用哪個指令?,circle(50, 50, 100),line(50, 50, 100, 100),rect(50, 50, 100, 100),ellipse(50, 50, 100, 100),2
+3. 若想要將畫布背景設定為純黑色，應該填入哪一個指令?,background(0),background(255),fill(0),stroke(0),0
+4. 想要改變接下來繪製圖形的填滿顏色為紅色，應該使用什麼指令?,stroke(255, 0, 0),fill(255, 0, 0),color(255, 0, 0),background(255, 0, 0),1
+5. 在 p5.js 中，代表滑鼠當前 X 軸座標的系統內建變數是什麼?,mouseX,mouseY,positionX,moveX,0
+6. 想要在畫布上畫一條線，應該使用哪一個指令?,line(),rect(),ellipse(),point(),0
+7. p5.js 中畫布預設的座標系統原點 (0, 0) 在哪裡?,左上角,左下角,正中央,右上角,0
+8. 想要設定線條或圖形外框的粗細，應該使用什麼指令?,stroke(),strokeWeight(),fill(),lineSize(),1
+9. 預設情況下，angleMode() 使用的視角單位是什麼?,度數 (Degrees),弧度 (Radians),百分比,梯度,1
+10. 若想要關閉圖形的外框線，應該呼叫哪一個函數?,noFill(),noStroke(),clear(),remove(),1
+11. 在 p5.js 中，隨機產生數字的內建函數是什麼?,random(),mathRandom(),choose(),roll(),0
+12. 哪一個系統變數代表目前視窗的寬度?,width,windowWidth,canvasWidth,screenWidth,1
+13. text() 函數的第一個參數通常代表什麼?,文字的 X 座標,文字的 Y 座標,要顯示的文字內容,字型大小,2
+14. 想要清除過去繪製的痕跡，通常會在 draw() 的最開頭加上什麼函數?,background(),clear(),stroke(),fill(),0
+15. 能夠連續且重複不斷執行的 p5.js 核心函數是哪一個?,setup(),draw(),loop(),preload(),1
